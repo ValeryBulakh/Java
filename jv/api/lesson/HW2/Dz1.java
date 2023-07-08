@@ -1,4 +1,4 @@
-package java.api.lesson.HW2;
+package jv.api.lesson.HW2;
 
 import java.io.BufferedWriter;
 import java.io.FileWriter;
